@@ -1,10 +1,10 @@
 # Code-Sharing-Platform
 
-Sometimes, it's convenient to have a tool that can help programmers share a **piece of code** with 
+Sometimes, it's convenient to have a tool that can help programmers share a **snippet of code** with 
 each other. There's actually a website known as [Pastebin](https://pastebin.com) that 
 does perfectly the same. The problem with this platform, is that every piece of code you publish 
 there, become automatically available for everyone. So to exclude this problem, we implement our own 
-code sharing platform which could have a restriction for a shared piece of code.
+code sharing platform which could have a restriction for a shared snippet of code.
 
 This project is based on **Spring Boot**, thereby we develop two types of interfaces: **API** and **Web** 
 interface. The _API_ is acceded through endpoints that start with `/api` while _web_ interface 
